@@ -1,0 +1,32 @@
+body {
+  
+  text-align: center;
+  background-image:url('../images/backfondo3.jpg');
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+h1 {
+	font-family: 'Cinzel', serif;
+	text-align: center;
+	font-weight: 700;
+}
+
+.titulo{
+	padding-top: 0px;
+	margin-top: 0px;
+}
+.fondito {
+	background-color: #f5f5f2;
+}
+.caja {
+	width: 10px;
+}
+.izquierda {
+	float: left;
+}
+.derecha {
+	float: right;
+	height:85px;
+}
